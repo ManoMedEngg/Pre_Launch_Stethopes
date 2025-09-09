@@ -1,7 +1,7 @@
 
   # Stethopes
 
-  This is a code bundle for Stethopes. The original project is available at https://www.figma.com/design/rTnSqaEvQCM4Z1SjjLcb3B/Stethopes.
+  This is a Pre Launch of Stethopes. This site is not Completed completly due to SIH.
 
   ## Running the code
 
